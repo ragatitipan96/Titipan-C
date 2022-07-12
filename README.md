@@ -1,5 +1,4 @@
 # Titipan-C
-Program dengan bahasa C
-beberapa project untuk latihan dalam pemprograman di bahasa C
+Beberapa Project Bahasa C untuk melatih skill dasar dalam Pemprograman
 
 --- By MRT ---
